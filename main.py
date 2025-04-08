@@ -861,8 +861,8 @@ class blum:
                 self.log(f"❌ Unexpected error during game play: {e}", red)
                 break
 
-            # Wait a random duration between 5 and 10 seconds before claiming the game
-            wait_time = random.randint(5, 10)
+            # Wait a random duration between 30 and 38 seconds before claiming the game
+            wait_time = random.randint(30, 38)
             self.log(f"⏳ Waiting for {white}{wait_time}{cyan} seconds before claiming the game...", cyan)
             time.sleep(wait_time)
 
