@@ -36,7 +36,7 @@ def run_script():
         time.sleep(2)  # Wait for 2 seconds before starting again
         start_script()  # Start the main script
         print("main.py has started. Restarting in 2 minutes...")
-        time.sleep(1800)  # Sleep for 30 minutes (1800 seconds)
+        time.sleep(1800)  # Sleep for 30.0 minutes (1800 seconds)
 
 if __name__ == "__main__":
     run_script()
