@@ -1,8 +1,8 @@
 {
-    "game": false,
-    "daily": true,
-    "task": true,
-    "farming": true,
+    "game": true,
+    "daily": false,
+    "task": false,
+    "farming": false,
     "low_point": 325,
     "high_point": 380,
     "thread": 1,
