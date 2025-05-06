@@ -12,8 +12,8 @@
 ## COMMANDS
 1. **Installation**
    ```bash
-   git clone https://github.com/Not-D4rkCipherX/blum-v2.git
-   cd blum-v2
+   git clone https://github.com/Jarvisssexe/blum2.2.git
+   cd blum2.2
    pip install -r requirements.txt
    ```
 2. **Configuration**
@@ -53,11 +53,3 @@ nano config.json
 ```bash
 python main.py
 ```
-## Buy ME a Coffee
-
-- **EVM:** 0x47f41Fcb17cF9B7A02C26EE855d26bB8D3928E1b
-- **TON:** UQA-qG5eyQ7gVxvPDpy484xzc0UPS9a8hJsUAwe0T_3D7_oF
-- **SOL:** A1pUv13rRDtubtYJuXswZYSQBJojPhthXJftfNZBRnEX
-- **SUI:** 0xeb697918d66c4ade867d61d0b8fb541df83675e8f60b6b81da8917aab149ee8f
-
-**D4rkCipherX**
